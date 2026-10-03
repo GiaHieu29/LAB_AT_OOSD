@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lab04\\eShopping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D43779DE-D4CC-498E-9871-607926FC5C7D}|eShopping\\eShopping.csproj|d:\\lab04\\eshopping\\eshopping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43779DE-D4CC-498E-9871-607926FC5C7D}|eShopping\\eShopping.csproj|solutionrelative:eshopping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43779DE-D4CC-498E-9871-607926FC5C7D}|eShopping\\eShopping.csproj|d:\\lab04\\eshopping\\eshopping\\ui\\frmdanhsachsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D43779DE-D4CC-498E-9871-607926FC5C7D}|eShopping\\eShopping.csproj|solutionrelative:eshopping\\ui\\frmdanhsachsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43779DE-D4CC-498E-9871-607926FC5C7D}|eShopping\\eShopping.csproj|d:\\lab04\\eshopping\\eshopping\\ui\\frmdathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43779DE-D4CC-498E-9871-607926FC5C7D}|eShopping\\eShopping.csproj|solutionrelative:eshopping\\ui\\frmdathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43779DE-D4CC-498E-9871-607926FC5C7D}|eShopping\\eShopping.csproj|d:\\lab04\\eshopping\\eshopping\\ui\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43779DE-D4CC-498E-9871-607926FC5C7D}|eShopping\\eShopping.csproj|solutionrelative:eshopping\\ui\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43779DE-D4CC-498E-9871-607926FC5C7D}|eShopping\\eShopping.csproj|d:\\lab04\\eshopping\\eshopping\\ui\\frmchitietsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43779DE-D4CC-498E-9871-607926FC5C7D}|eShopping\\eShopping.csproj|solutionrelative:eshopping\\ui\\frmchitietsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43779DE-D4CC-498E-9871-607926FC5C7D}|eShopping\\eShopping.csproj|d:\\lab04\\eshopping\\eshopping\\ui\\frmdanhsachsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43779DE-D4CC-498E-9871-607926FC5C7D}|eShopping\\eShopping.csproj|solutionrelative:eshopping\\ui\\frmdanhsachsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43779DE-D4CC-498E-9871-607926FC5C7D}|eShopping\\eShopping.csproj|d:\\lab04\\eshopping\\eshopping\\ui\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43779DE-D4CC-498E-9871-607926FC5C7D}|eShopping\\eShopping.csproj|solutionrelative:eshopping\\ui\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43779DE-D4CC-498E-9871-607926FC5C7D}|eShopping\\eShopping.csproj|d:\\lab04\\eshopping\\eshopping\\ui\\frmgiohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43779DE-D4CC-498E-9871-607926FC5C7D}|eShopping\\eShopping.csproj|solutionrelative:eshopping\\ui\\frmgiohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lab04\\eShopping\\eShopping\\Program.cs",
+              "RelativeDocumentMoniker": "eShopping\\Program.cs",
+              "ToolTip": "D:\\Lab04\\eShopping\\eShopping\\Program.cs",
+              "RelativeToolTip": "eShopping\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T14:18:56.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmDatHang.cs",
+              "DocumentMoniker": "D:\\Lab04\\eShopping\\eShopping\\UI\\frmDatHang.cs",
+              "RelativeDocumentMoniker": "eShopping\\UI\\frmDatHang.cs",
+              "ToolTip": "D:\\Lab04\\eShopping\\eShopping\\UI\\frmDatHang.cs",
+              "RelativeToolTip": "eShopping\\UI\\frmDatHang.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T14:13:25.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDangKy.cs",
+              "DocumentMoniker": "D:\\Lab04\\eShopping\\eShopping\\UI\\frmDangKy.cs",
+              "RelativeDocumentMoniker": "eShopping\\UI\\frmDangKy.cs",
+              "ToolTip": "D:\\Lab04\\eShopping\\eShopping\\UI\\frmDangKy.cs",
+              "RelativeToolTip": "eShopping\\UI\\frmDangKy.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T14:12:53.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmChiTietSP.cs",
+              "DocumentMoniker": "D:\\Lab04\\eShopping\\eShopping\\UI\\frmChiTietSP.cs",
+              "RelativeDocumentMoniker": "eShopping\\UI\\frmChiTietSP.cs",
+              "ToolTip": "D:\\Lab04\\eShopping\\eShopping\\UI\\frmChiTietSP.cs",
+              "RelativeToolTip": "eShopping\\UI\\frmChiTietSP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T14:12:39.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmGioHang.cs",
+              "DocumentMoniker": "D:\\Lab04\\eShopping\\eShopping\\UI\\frmGioHang.cs",
+              "RelativeDocumentMoniker": "eShopping\\UI\\frmGioHang.cs",
+              "ToolTip": "D:\\Lab04\\eShopping\\eShopping\\UI\\frmGioHang.cs",
+              "RelativeToolTip": "eShopping\\UI\\frmGioHang.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAIwA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T14:02:37.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmDangNhap.cs",
+              "DocumentMoniker": "D:\\Lab04\\eShopping\\eShopping\\UI\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "eShopping\\UI\\frmDangNhap.cs",
+              "ToolTip": "D:\\Lab04\\eShopping\\eShopping\\UI\\frmDangNhap.cs",
+              "RelativeToolTip": "eShopping\\UI\\frmDangNhap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T14:01:56.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmDanhSachSP.cs",
+              "DocumentMoniker": "D:\\Lab04\\eShopping\\eShopping\\UI\\frmDanhSachSP.cs",
+              "RelativeDocumentMoniker": "eShopping\\UI\\frmDanhSachSP.cs",
+              "ToolTip": "D:\\Lab04\\eShopping\\eShopping\\UI\\frmDanhSachSP.cs",
+              "RelativeToolTip": "eShopping\\UI\\frmDanhSachSP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T14:01:00.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmDanhSachSP.cs [Design]",
+              "DocumentMoniker": "D:\\Lab04\\eShopping\\eShopping\\UI\\frmDanhSachSP.cs",
+              "RelativeDocumentMoniker": "eShopping\\UI\\frmDanhSachSP.cs",
+              "ToolTip": "D:\\Lab04\\eShopping\\eShopping\\UI\\frmDanhSachSP.cs [Design]",
+              "RelativeToolTip": "eShopping\\UI\\frmDanhSachSP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T14:00:57.849Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

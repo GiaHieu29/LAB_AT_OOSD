@@ -1,0 +1,10 @@
+D:\Lab04\eShopping\eShopping\obj\Debug\eShopping.csproj.AssemblyReference.cache
+D:\Lab04\eShopping\eShopping\obj\Debug\eShopping.Properties.Resources.resources
+D:\Lab04\eShopping\eShopping\obj\Debug\eShopping.csproj.GenerateResource.cache
+D:\Lab04\eShopping\eShopping\obj\Debug\eShopping.csproj.CoreCompileInputs.cache
+D:\Lab04\eShopping\eShopping\bin\Debug\eShopping.exe.config
+D:\Lab04\eShopping\eShopping\bin\Debug\eShopping.exe
+D:\Lab04\eShopping\eShopping\bin\Debug\eShopping.pdb
+D:\Lab04\eShopping\eShopping\obj\Debug\eShopping.exe
+D:\Lab04\eShopping\eShopping\obj\Debug\eShopping.pdb
+D:\Lab04\eShopping\eShopping\obj\Debug\eShopping.UI.frmDanhSachSP.resources
