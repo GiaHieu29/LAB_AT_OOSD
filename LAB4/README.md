@@ -6,9 +6,6 @@
 - **Công nghệ:** C# WinForms (.NET Framework 4.7.2), SQL Server, ADO.NET
 - **Công cụ vẽ UML:** draw.io
 
-> Các chỗ đánh dấu **[ĐIỀN]** là thông tin riêng của máy/bài làm của bạn, hãy điền trước khi nộp.
-
----
 
 ## 1. Cấu trúc thư mục nộp
 
@@ -67,8 +64,6 @@ Mở `Source/EShopping.UI/App.config`, sửa phần `connectionStrings` cho đú
        providerName="System.Data.SqlClient" />
 </connectionStrings>
 ```
-
-Ví dụ tên server: `.\SQLEXPRESS` hoặc `(localdb)\MSSQLLocalDB`.
 
 **Bước 3. Build và chạy**
 1. Mở `Source/EShopping.sln` bằng Visual Studio.
