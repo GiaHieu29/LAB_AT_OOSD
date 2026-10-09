@@ -1,0 +1,9 @@
+D:\LAB_AT_OOSD\LAB5\QuanLyCongTyDuLich\QuanLyCongTyDuLich\bin\Debug\QuanLyCongTyDuLich.exe.config
+D:\LAB_AT_OOSD\LAB5\QuanLyCongTyDuLich\QuanLyCongTyDuLich\bin\Debug\QuanLyCongTyDuLich.exe
+D:\LAB_AT_OOSD\LAB5\QuanLyCongTyDuLich\QuanLyCongTyDuLich\bin\Debug\QuanLyCongTyDuLich.pdb
+D:\LAB_AT_OOSD\LAB5\QuanLyCongTyDuLich\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.csproj.AssemblyReference.cache
+D:\LAB_AT_OOSD\LAB5\QuanLyCongTyDuLich\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.Properties.Resources.resources
+D:\LAB_AT_OOSD\LAB5\QuanLyCongTyDuLich\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.csproj.GenerateResource.cache
+D:\LAB_AT_OOSD\LAB5\QuanLyCongTyDuLich\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.csproj.CoreCompileInputs.cache
+D:\LAB_AT_OOSD\LAB5\QuanLyCongTyDuLich\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.exe
+D:\LAB_AT_OOSD\LAB5\QuanLyCongTyDuLich\QuanLyCongTyDuLich\obj\Debug\QuanLyCongTyDuLich.pdb
