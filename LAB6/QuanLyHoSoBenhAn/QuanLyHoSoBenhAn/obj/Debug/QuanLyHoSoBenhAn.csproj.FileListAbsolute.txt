@@ -1,0 +1,10 @@
+D:\LAB_AT_OOSD\LAB6\QuanLyHoSoBenhAn\QuanLyHoSoBenhAn\bin\Debug\QuanLyHoSoBenhAn.exe.config
+D:\LAB_AT_OOSD\LAB6\QuanLyHoSoBenhAn\QuanLyHoSoBenhAn\bin\Debug\QuanLyHoSoBenhAn.exe
+D:\LAB_AT_OOSD\LAB6\QuanLyHoSoBenhAn\QuanLyHoSoBenhAn\bin\Debug\QuanLyHoSoBenhAn.pdb
+D:\LAB_AT_OOSD\LAB6\QuanLyHoSoBenhAn\QuanLyHoSoBenhAn\obj\Debug\QuanLyHoSoBenhAn.csproj.AssemblyReference.cache
+D:\LAB_AT_OOSD\LAB6\QuanLyHoSoBenhAn\QuanLyHoSoBenhAn\obj\Debug\QuanLyHoSoBenhAn.Form1.resources
+D:\LAB_AT_OOSD\LAB6\QuanLyHoSoBenhAn\QuanLyHoSoBenhAn\obj\Debug\QuanLyHoSoBenhAn.Properties.Resources.resources
+D:\LAB_AT_OOSD\LAB6\QuanLyHoSoBenhAn\QuanLyHoSoBenhAn\obj\Debug\QuanLyHoSoBenhAn.csproj.GenerateResource.cache
+D:\LAB_AT_OOSD\LAB6\QuanLyHoSoBenhAn\QuanLyHoSoBenhAn\obj\Debug\QuanLyHoSoBenhAn.csproj.CoreCompileInputs.cache
+D:\LAB_AT_OOSD\LAB6\QuanLyHoSoBenhAn\QuanLyHoSoBenhAn\obj\Debug\QuanLyHoSoBenhAn.exe
+D:\LAB_AT_OOSD\LAB6\QuanLyHoSoBenhAn\QuanLyHoSoBenhAn\obj\Debug\QuanLyHoSoBenhAn.pdb
