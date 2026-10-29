@@ -1,0 +1,205 @@
+﻿namespace QuanLyNhanSu.Forms
+{
+    partial class FrmThongKe
+    {
+        private System.ComponentModel.IContainer components = null;
+
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null)) components.Dispose();
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        private void InitializeComponent()
+        {
+            this.tabTK = new System.Windows.Forms.TabControl();
+            this.tpPB = new System.Windows.Forms.TabPage();
+            this.tpHan = new System.Windows.Forms.TabPage();
+            this.tpTP = new System.Windows.Forms.TabPage();
+            this.btnXemPB = new System.Windows.Forms.Button();
+            this.dgvPB = new System.Windows.Forms.DataGridView();
+            this.label1 = new System.Windows.Forms.Label();
+            this.numNgay = new System.Windows.Forms.NumericUpDown();
+            this.btnXemHan = new System.Windows.Forms.Button();
+            this.dgvHan = new System.Windows.Forms.DataGridView();
+            this.label2 = new System.Windows.Forms.Label();
+            this.numNam = new System.Windows.Forms.NumericUpDown();
+            this.btnXemTP = new System.Windows.Forms.Button();
+            this.dgvTP = new System.Windows.Forms.DataGridView();
+            this.btnDong = new System.Windows.Forms.Button();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvPB)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numNgay)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvHan)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numNam)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvTP)).BeginInit();
+            this.SuspendLayout();
+            this.tabTK.SuspendLayout();
+            this.tpPB.SuspendLayout();
+            this.tpHan.SuspendLayout();
+            this.tpTP.SuspendLayout();
+            this.tabTK.Name = "tabTK";
+            this.tabTK.Location = new System.Drawing.Point(10, 10);
+            this.tabTK.Size = new System.Drawing.Size(980, 550);
+            this.tabTK.TabIndex = 0;
+            this.Controls.Add(this.tabTK);
+            this.tpPB.Name = "tpPB";
+            this.tpPB.Text = "Nhân sự theo phòng ban";
+            this.tpPB.Padding = new System.Windows.Forms.Padding(3);
+            this.tpPB.UseVisualStyleBackColor = true;
+            this.tabTK.Controls.Add(this.tpPB);
+            this.tpHan.Name = "tpHan";
+            this.tpHan.Text = "Thử việc và hợp đồng sắp hết hạn";
+            this.tpHan.Padding = new System.Windows.Forms.Padding(3);
+            this.tpHan.UseVisualStyleBackColor = true;
+            this.tabTK.Controls.Add(this.tpHan);
+            this.tpTP.Name = "tpTP";
+            this.tpTP.Text = "Thưởng và phạt theo năm";
+            this.tpTP.Padding = new System.Windows.Forms.Padding(3);
+            this.tpTP.UseVisualStyleBackColor = true;
+            this.tabTK.Controls.Add(this.tpTP);
+            this.btnXemPB.Name = "btnXemPB";
+            this.btnXemPB.Location = new System.Drawing.Point(10, 12);
+            this.btnXemPB.Size = new System.Drawing.Size(100, 28);
+            this.btnXemPB.Text = "Làm mới";
+            this.btnXemPB.UseVisualStyleBackColor = true;
+            this.btnXemPB.TabIndex = 1;
+            this.btnXemPB.Click += new System.EventHandler(this.btnXemPB_Click);
+            this.tpPB.Controls.Add(this.btnXemPB);
+            this.dgvPB.Name = "dgvPB";
+            this.dgvPB.Location = new System.Drawing.Point(10, 50);
+            this.dgvPB.Size = new System.Drawing.Size(930, 440);
+            this.dgvPB.AllowUserToAddRows = false;
+            this.dgvPB.AllowUserToDeleteRows = false;
+            this.dgvPB.ReadOnly = true;
+            this.dgvPB.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.dgvPB.MultiSelect = false;
+            this.dgvPB.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.dgvPB.RowHeadersVisible = false;
+            this.dgvPB.BackgroundColor = System.Drawing.SystemColors.Window;
+            this.dgvPB.TabIndex = 2;
+            this.tpPB.Controls.Add(this.dgvPB);
+            this.label1.Name = "label1";
+            this.label1.Location = new System.Drawing.Point(10, 15);
+            this.label1.AutoSize = true;
+            this.label1.Text = "Còn hạn trong (ngày)";
+            this.label1.TabIndex = 3;
+            this.tpHan.Controls.Add(this.label1);
+            this.numNgay.Name = "numNgay";
+            this.numNgay.Location = new System.Drawing.Point(145, 12);
+            this.numNgay.Size = new System.Drawing.Size(70, 23);
+            this.numNgay.Minimum = new decimal(new int[] { 1, 0, 0, 0 });
+            this.numNgay.Maximum = new decimal(new int[] { 365, 0, 0, 0 });
+            this.numNgay.Value = new decimal(new int[] { 30, 0, 0, 0 });
+            this.numNgay.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.numNgay.TabIndex = 4;
+            this.tpHan.Controls.Add(this.numNgay);
+            this.btnXemHan.Name = "btnXemHan";
+            this.btnXemHan.Location = new System.Drawing.Point(300, 9);
+            this.btnXemHan.Size = new System.Drawing.Size(100, 28);
+            this.btnXemHan.Text = "Xem";
+            this.btnXemHan.UseVisualStyleBackColor = true;
+            this.btnXemHan.TabIndex = 5;
+            this.btnXemHan.Click += new System.EventHandler(this.btnXemHan_Click);
+            this.tpHan.Controls.Add(this.btnXemHan);
+            this.dgvHan.Name = "dgvHan";
+            this.dgvHan.Location = new System.Drawing.Point(10, 50);
+            this.dgvHan.Size = new System.Drawing.Size(930, 440);
+            this.dgvHan.AllowUserToAddRows = false;
+            this.dgvHan.AllowUserToDeleteRows = false;
+            this.dgvHan.ReadOnly = true;
+            this.dgvHan.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.dgvHan.MultiSelect = false;
+            this.dgvHan.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.dgvHan.RowHeadersVisible = false;
+            this.dgvHan.BackgroundColor = System.Drawing.SystemColors.Window;
+            this.dgvHan.TabIndex = 6;
+            this.tpHan.Controls.Add(this.dgvHan);
+            this.label2.Name = "label2";
+            this.label2.Location = new System.Drawing.Point(10, 15);
+            this.label2.AutoSize = true;
+            this.label2.Text = "Năm";
+            this.label2.TabIndex = 7;
+            this.tpTP.Controls.Add(this.label2);
+            this.numNam.Name = "numNam";
+            this.numNam.Location = new System.Drawing.Point(50, 12);
+            this.numNam.Size = new System.Drawing.Size(80, 23);
+            this.numNam.Minimum = new decimal(new int[] { 2000, 0, 0, 0 });
+            this.numNam.Maximum = new decimal(new int[] { 2100, 0, 0, 0 });
+            this.numNam.Value = new decimal(new int[] { 2026, 0, 0, 0 });
+            this.numNam.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.numNam.TabIndex = 8;
+            this.tpTP.Controls.Add(this.numNam);
+            this.btnXemTP.Name = "btnXemTP";
+            this.btnXemTP.Location = new System.Drawing.Point(190, 9);
+            this.btnXemTP.Size = new System.Drawing.Size(100, 28);
+            this.btnXemTP.Text = "Xem";
+            this.btnXemTP.UseVisualStyleBackColor = true;
+            this.btnXemTP.TabIndex = 9;
+            this.btnXemTP.Click += new System.EventHandler(this.btnXemTP_Click);
+            this.tpTP.Controls.Add(this.btnXemTP);
+            this.dgvTP.Name = "dgvTP";
+            this.dgvTP.Location = new System.Drawing.Point(10, 50);
+            this.dgvTP.Size = new System.Drawing.Size(930, 440);
+            this.dgvTP.AllowUserToAddRows = false;
+            this.dgvTP.AllowUserToDeleteRows = false;
+            this.dgvTP.ReadOnly = true;
+            this.dgvTP.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.dgvTP.MultiSelect = false;
+            this.dgvTP.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.dgvTP.RowHeadersVisible = false;
+            this.dgvTP.BackgroundColor = System.Drawing.SystemColors.Window;
+            this.dgvTP.TabIndex = 10;
+            this.tpTP.Controls.Add(this.dgvTP);
+            this.btnDong.Name = "btnDong";
+            this.btnDong.Location = new System.Drawing.Point(890, 570);
+            this.btnDong.Size = new System.Drawing.Size(100, 28);
+            this.btnDong.Text = "Đóng";
+            this.btnDong.UseVisualStyleBackColor = true;
+            this.btnDong.TabIndex = 11;
+            this.btnDong.Click += new System.EventHandler(this.btnDong_Click);
+            this.Controls.Add(this.btnDong);
+            ((System.ComponentModel.ISupportInitialize)(this.dgvPB)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numNgay)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvHan)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numNam)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvTP)).EndInit();
+            this.tabTK.ResumeLayout(false);
+            this.tpPB.ResumeLayout(false);
+            this.tpHan.ResumeLayout(false);
+            this.tpTP.ResumeLayout(false);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(1000, 620);
+            this.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
+            this.Name = "FrmThongKe";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
+            this.Text = "Thống kê nhân sự";
+            this.Load += new System.EventHandler(this.FrmThongKe_Load);
+            this.ResumeLayout(false);
+            this.PerformLayout();
+        }
+
+        #endregion
+
+        private System.Windows.Forms.TabControl tabTK;
+        private System.Windows.Forms.TabPage tpPB;
+        private System.Windows.Forms.TabPage tpHan;
+        private System.Windows.Forms.TabPage tpTP;
+        private System.Windows.Forms.Button btnXemPB;
+        private System.Windows.Forms.DataGridView dgvPB;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.NumericUpDown numNgay;
+        private System.Windows.Forms.Button btnXemHan;
+        private System.Windows.Forms.DataGridView dgvHan;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.NumericUpDown numNam;
+        private System.Windows.Forms.Button btnXemTP;
+        private System.Windows.Forms.DataGridView dgvTP;
+        private System.Windows.Forms.Button btnDong;
+    }
+}

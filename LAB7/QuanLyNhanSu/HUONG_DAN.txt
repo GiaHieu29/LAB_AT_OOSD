@@ -1,0 +1,54 @@
+BAI 7 - QUAN LY NHAN SU CONG TY SON DONG A (WinForms, .NET Framework 4.7.2)
+
+CACH CHAY
+1. Giai nen file zip ra o dia (khong mo truc tiep trong file zip).
+2. Mo QuanLyNhanSu.sln bang Visual Studio 2022, bam F5.
+   Lan chay dau tien chuong trinh TU TAO database QuanLyNhanSu va du lieu mau
+   (chay file Database\QuanLyNhanSu.sql).
+
+NEU BAO LOI KET NOI SQL SERVER
+- Mo App.config, sua Data Source cho dung may cua ban, vi du:
+    (localdb)\MSSQLLocalDB     -> LocalDB (mac dinh)
+    .\SQLEXPRESS               -> SQL Server Express
+    .                          -> SQL Server ban day du
+- Hoac mo Database\QuanLyNhanSu.sql trong SSMS, bam Execute, roi chay lai.
+
+TAO LAI DATABASE TU DAU
+- Trong SSMS: DROP DATABASE QuanLyNhanSu; roi chay lai chuong trinh.
+
+13 FORM
+  FrmMain         Menu chinh
+  FrmDanhMuc      Phong ban (nhu cau tuyen, truong phong), chuc vu, ca lam viec
+  FrmNhanVien     Ho so nhan vien, cap nhat, nghi viec, qua trinh cong tac
+  FrmTuyenDung    Quyet dinh tuyen dung kem thoi gian thu viec
+  FrmHopDong      Ky hop dong (dai han / ngan han) va ho so BHYT, BHXH
+  FrmQuyetDinh    Quyet dinh chuc vu (phu cap chuc vu) va quyet dinh luong
+  FrmPhanCong     Ke hoach phan cong theo tuan cua truong phong (kem phu troi du kien)
+  FrmChamCong     Cham cong tung ngay va bang cham cong thang
+  FrmPhuTroi      Phieu ghi nhan gio phu troi (tang ca, ngay le, ngay nghi)
+  FrmBangLuong    Xem truoc va lap bang luong thang
+  FrmKhenThuong   Quyet dinh khen thuong ca nhan / tap the va phieu chi
+  FrmKyLuat       Quyet dinh ky luat ca nhan / tap the va phieu thu nop phat
+  FrmThongKe      Nhan su theo phong ban, het han thu viec / hop dong, thuong phat theo nam
+
+QUY DINH NGHIEP VU CHINH
+- Chi tuyen vao phong ban con "nhu cau tuyen"; moi nguoi duoc tuyen lam giam nhu cau 1.
+- Quyet dinh tuyen dung ghi ro thoi gian thu viec (1-6 thang), luong thu viec, dieu khoan cua CONG TY va cua NHAN VIEN.
+- Chi ky hop dong khi het thoi gian thu viec; ky xong nhan vien tro thanh chinh thuc.
+- Hop dong dai han khong co ngay ket thuc; ngan han bat buoc co ngay ket thuc (toi da 36 thang).
+- Chi hop dong dai han moi lap ho so BHXH (mac dinh 8%) va BHYT (mac dinh 1,5%); hai khoan nay bi tru trong bang luong.
+- Quyet dinh chuc vu va quyet dinh luong chi cho nhan vien chinh thuc; ngay hieu luc phai sau quyet dinh truoc.
+- Ke hoach phan cong lap theo tuan (bat dau thu Hai) do truong phong cua phong ban lap.
+- Gio phu troi tinh bang 1,5 lan gio lao dong binh thuong.
+- Luong thang = luong co ban x ngay cong / 26 + phu cap luong + phu cap doc hai + phu cap chuc vu + tien phu troi
+  - BHXH - BHYT - tien phat tru luong. Thang co nhan vien chinh thuc chua co quyet dinh luong thi khong lap duoc.
+- Khen thuong / ky luat do GIAM DOC ky (nguoi co chuc vu hien hanh la GD). Muc thuong / phat tinh cho MOI NGUOI trong doi tuong.
+  Thuong ngay le, cuoi nam, luong thang 13 chi danh cho nhan vien chinh thuc.
+- Phat tien thu theo 2 cach: NOP PHAT (thu tren form Ky luat) hoac TRU LUONG (tru khi lap bang luong).
+
+DU LIEU MAU DE THU (ngay mau quanh thang 9-10/2026)
+- NV009 het thu viec 30/09/2026 -> ky duoc hop dong; NV010 con thu viec den 30/11/2026 -> bi tu choi.
+- Phong Ky thuat can tuyen 2 nguoi, San xuat 3 nguoi.
+- Co du lieu cham cong thang 9 va thang 10 (den 22/10) de lap bang luong thang 9.
+- NV008 co phieu phat 200.000 d tru luong: thang 9 se bi tru khi lap bang luong.
+- NV001 la Giam doc (nguoi ky khen thuong, ky luat).

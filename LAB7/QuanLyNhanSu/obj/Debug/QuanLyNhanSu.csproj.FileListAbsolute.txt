@@ -1,0 +1,8 @@
+D:\LAB_AT_OOSD\LAB7\QuanLyNhanSu\bin\Debug\Database\QuanLyNhanSu.sql
+D:\LAB_AT_OOSD\LAB7\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+D:\LAB_AT_OOSD\LAB7\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+D:\LAB_AT_OOSD\LAB7\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+D:\LAB_AT_OOSD\LAB7\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+D:\LAB_AT_OOSD\LAB7\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+D:\LAB_AT_OOSD\LAB7\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+D:\LAB_AT_OOSD\LAB7\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
